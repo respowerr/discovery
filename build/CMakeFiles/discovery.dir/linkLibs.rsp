@@ -1,0 +1,1 @@
+  -L"C:/PROGRA~1/GTK3-R~1/lib"  -lgtk-3.0 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

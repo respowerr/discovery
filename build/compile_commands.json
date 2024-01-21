@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/jules/Desktop/DISCOVERY/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/test_comp.dir/includes_C.rsp -g -o CMakeFiles\\test_comp.dir\\main.c.obj -c C:\\Users\\jules\\Desktop\\DISCOVERY\\main.c",
+  "file": "C:/Users/jules/Desktop/DISCOVERY/main.c",
+  "output": "CMakeFiles/test_comp.dir/main.c.obj"
+}
+]
