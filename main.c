@@ -11,7 +11,9 @@ int main(int argc, char *argv[]) {
     GtkWidget *window = gtk_window_new(GTK_WINDOW_TOPLEVEL);
     gtk_window_set_title(GTK_WINDOW(window), "Discovery - Loading");
     gtk_window_set_default_size(GTK_WINDOW(window), 300, 300);
+    gtk_window_set_position(GTK_WINDOW(window), GTK_WIN_POS_CENTER_ALWAYS);
     g_signal_connect(window, "destroy", G_CALLBACK(destroy), NULL);
+    
 
     GError *error = NULL;
     GdkPixbufAnimation *animation = gdk_pixbuf_animation_new_from_file("intro.gif", &error);
