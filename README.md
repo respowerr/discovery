@@ -17,4 +17,5 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 
 ## License
-Ce projet est sous copyright © 2024 Callidos GROUP. Tous droits réservés.
+```markdown
+Ce projet est sous copyright © 2024 [Callidos GROUP](mailto:contact@callidosgroup.eu). Tous droits réservés.
