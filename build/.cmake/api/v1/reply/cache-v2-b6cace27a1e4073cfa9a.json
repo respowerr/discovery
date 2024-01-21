@@ -2,18 +2,6 @@
 	"entries" : 
 	[
 		{
-			"name" : "BUILD_TESTING",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Build the testing tree."
-				}
-			],
-			"type" : "BOOL",
-			"value" : "ON"
-		},
-		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -67,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/jules/Desktop/DISCOVERY/build"
+			"value" : "c:/Users/jules/Documents/discovery/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -599,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jules/Desktop/DISCOVERY/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/jules/Documents/discovery/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -671,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/jules/Desktop/DISCOVERY"
+			"value" : "C:/Users/jules/Documents/discovery"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -683,7 +671,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/discovery"
+			"value" : "C:/Program Files (x86)/test_comp"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -904,66 +892,6 @@
 			],
 			"type" : "STATIC",
 			"value" : "test_comp"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "0.1.0"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_MAJOR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "0"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_MINOR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "1"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_PATCH",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "0"
-		},
-		{
-			"name" : "CMAKE_PROJECT_VERSION_TWEAK",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : ""
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1356,230 +1284,6 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
-		},
-		{
-			"name" : "COVERAGE_COMMAND",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to the coverage program that CTest uses for performing coverage inspection"
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : "C:/msys64/mingw64/bin/gcov.exe"
-		},
-		{
-			"name" : "COVERAGE_EXTRA_FLAGS",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Extra command line flags to pass to the coverage tool"
-				}
-			],
-			"type" : "STRING",
-			"value" : "-l"
-		},
-		{
-			"name" : "CPACK_BINARY_7Z",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build 7-Zip packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "CPACK_BINARY_IFW",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build IFW packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "CPACK_BINARY_INNOSETUP",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build Inno Setup packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "CPACK_BINARY_NSIS",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build NSIS packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "ON"
-		},
-		{
-			"name" : "CPACK_BINARY_NUGET",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build NuGet packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "CPACK_BINARY_WIX",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build WiX packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "CPACK_BINARY_ZIP",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build ZIP packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "OFF"
-		},
-		{
-			"name" : "CPACK_SOURCE_7Z",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build 7-Zip source packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "ON"
-		},
-		{
-			"name" : "CPACK_SOURCE_ZIP",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Enable to build ZIP source packages"
-				}
-			],
-			"type" : "BOOL",
-			"value" : "ON"
-		},
-		{
-			"name" : "CTEST_SUBMIT_RETRY_COUNT",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "How many times to retry timed-out CTest submissions."
-				}
-			],
-			"type" : "STRING",
-			"value" : "3"
-		},
-		{
-			"name" : "CTEST_SUBMIT_RETRY_DELAY",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "How long to wait between timed-out CTest submissions."
-				}
-			],
-			"type" : "STRING",
-			"value" : "5"
-		},
-		{
-			"name" : "DART_TESTING_TIMEOUT",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Maximum time allowed before CTest will kill the test."
-				}
-			],
-			"type" : "STRING",
-			"value" : "1500"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_PkgConfig",
@@ -2014,22 +1718,6 @@
 			"value" : ""
 		},
 		{
-			"name" : "GITCOMMAND",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to a program."
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : "C:/Program Files/Git/cmd/git.exe"
-		},
-		{
 			"name" : "GTK3_CFLAGS",
 			"properties" : 
 			[
@@ -2450,54 +2138,6 @@
 			"value" : ""
 		},
 		{
-			"name" : "MAKECOMMAND",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Command to build the project"
-				}
-			],
-			"type" : "STRING",
-			"value" : "C:/Program\\ Files/CMake/bin/cmake.exe --build . --config \"${CTEST_CONFIGURATION_TYPE}\" -- -i"
-		},
-		{
-			"name" : "MEMORYCHECK_COMMAND",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Path to the memory checking command, used for memory error detection."
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : "MEMORYCHECK_COMMAND-NOTFOUND"
-		},
-		{
-			"name" : "MEMORYCHECK_SUPPRESSIONS_FILE",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "File that contains suppressions for the memory checker"
-				}
-			],
-			"type" : "FILEPATH",
-			"value" : ""
-		},
-		{
 			"name" : "PKG_CONFIG_ARGN",
 			"properties" : 
 			[
@@ -2528,22 +2168,6 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "C:/msys64/mingw64/bin/pkg-config.exe"
-		},
-		{
-			"name" : "SITE",
-			"properties" : 
-			[
-				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
-					"name" : "HELPSTRING",
-					"value" : "Name of the computer/site where compile is being run"
-				}
-			],
-			"type" : "STRING",
-			"value" : "stardestroyer"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
@@ -2604,42 +2228,6 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "1"
-		},
-		{
-			"name" : "discovery_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/jules/Desktop/DISCOVERY/build"
-		},
-		{
-			"name" : "discovery_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "discovery_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/jules/Desktop/DISCOVERY"
 		},
 		{
 			"name" : "pkgcfg_lib_GDK_PIXBUF_gdk_pixbuf-2.0",
@@ -3175,7 +2763,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jules/Desktop/DISCOVERY/build"
+			"value" : "C:/Users/jules/Documents/discovery/build"
 		},
 		{
 			"name" : "test_comp_IS_TOP_LEVEL",
@@ -3199,7 +2787,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jules/Desktop/DISCOVERY"
+			"value" : "C:/Users/jules/Documents/discovery"
 		}
 	],
 	"kind" : "cache",
