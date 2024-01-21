@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\jules\Desktop\DISCOVERY
+CMAKE_SOURCE_DIR = C:\Users\jules\Documents\discovery
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\jules\Desktop\DISCOVERY\build
+CMAKE_BINARY_DIR = C:\Users\jules\Documents\discovery\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/discovery.dir/depend.make
@@ -68,38 +68,38 @@ include CMakeFiles/discovery.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/discovery.dir/flags.make
 
-CMakeFiles/discovery.dir/src/main.c.obj: CMakeFiles/discovery.dir/flags.make
-CMakeFiles/discovery.dir/src/main.c.obj: CMakeFiles/discovery.dir/includes_C.rsp
-CMakeFiles/discovery.dir/src/main.c.obj: C:/Users/jules/Desktop/DISCOVERY/src/main.c
-CMakeFiles/discovery.dir/src/main.c.obj: CMakeFiles/discovery.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jules\Desktop\DISCOVERY\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/discovery.dir/src/main.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/src/main.c.obj -MF CMakeFiles\discovery.dir\src\main.c.obj.d -o CMakeFiles\discovery.dir\src\main.c.obj -c C:\Users\jules\Desktop\DISCOVERY\src\main.c
+CMakeFiles/discovery.dir/main.c.obj: CMakeFiles/discovery.dir/flags.make
+CMakeFiles/discovery.dir/main.c.obj: CMakeFiles/discovery.dir/includes_C.rsp
+CMakeFiles/discovery.dir/main.c.obj: C:/Users/jules/Documents/discovery/main.c
+CMakeFiles/discovery.dir/main.c.obj: CMakeFiles/discovery.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/discovery.dir/main.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/main.c.obj -MF CMakeFiles\discovery.dir\main.c.obj.d -o CMakeFiles\discovery.dir\main.c.obj -c C:\Users\jules\Documents\discovery\main.c
 
-CMakeFiles/discovery.dir/src/main.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/discovery.dir/src/main.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules\Desktop\DISCOVERY\src\main.c > CMakeFiles\discovery.dir\src\main.c.i
+CMakeFiles/discovery.dir/main.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/discovery.dir/main.c.i"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules\Documents\discovery\main.c > CMakeFiles\discovery.dir\main.c.i
 
-CMakeFiles/discovery.dir/src/main.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/discovery.dir/src/main.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules\Desktop\DISCOVERY\src\main.c -o CMakeFiles\discovery.dir\src\main.c.s
+CMakeFiles/discovery.dir/main.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/discovery.dir/main.c.s"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules\Documents\discovery\main.c -o CMakeFiles\discovery.dir\main.c.s
 
 # Object files for target discovery
 discovery_OBJECTS = \
-"CMakeFiles/discovery.dir/src/main.c.obj"
+"CMakeFiles/discovery.dir/main.c.obj"
 
 # External object files for target discovery
 discovery_EXTERNAL_OBJECTS =
 
-discovery.exe: CMakeFiles/discovery.dir/src/main.c.obj
-discovery.exe: CMakeFiles/discovery.dir/build.make
-discovery.exe: CMakeFiles/discovery.dir/linkLibs.rsp
-discovery.exe: CMakeFiles/discovery.dir/objects1.rsp
-discovery.exe: CMakeFiles/discovery.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\jules\Desktop\DISCOVERY\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable discovery.exe"
+C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/main.c.obj
+C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/build.make
+C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/linkLibs.rsp
+C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/objects1.rsp
+C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable C:\Users\jules\Documents\discovery\discovery.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\discovery.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/discovery.dir/build: discovery.exe
+CMakeFiles/discovery.dir/build: C:/Users/jules/Documents/discovery/discovery.exe
 .PHONY : CMakeFiles/discovery.dir/build
 
 CMakeFiles/discovery.dir/clean:
@@ -107,6 +107,6 @@ CMakeFiles/discovery.dir/clean:
 .PHONY : CMakeFiles/discovery.dir/clean
 
 CMakeFiles/discovery.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\jules\Desktop\DISCOVERY C:\Users\jules\Desktop\DISCOVERY C:\Users\jules\Desktop\DISCOVERY\build C:\Users\jules\Desktop\DISCOVERY\build C:\Users\jules\Desktop\DISCOVERY\build\CMakeFiles\discovery.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\jules\Documents\discovery C:\Users\jules\Documents\discovery C:\Users\jules\Documents\discovery\build C:\Users\jules\Documents\discovery\build C:\Users\jules\Documents\discovery\build\CMakeFiles\discovery.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/discovery.dir/depend
 

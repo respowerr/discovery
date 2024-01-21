@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/jules/Desktop/DISCOVERY/src/main.c" "CMakeFiles/discovery.dir/src/main.c.obj" "gcc" "CMakeFiles/discovery.dir/src/main.c.obj.d"
+  "C:/Users/jules/Documents/discovery/main.c" "CMakeFiles/discovery.dir/main.c.obj" "gcc" "CMakeFiles/discovery.dir/main.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

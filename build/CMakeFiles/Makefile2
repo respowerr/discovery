@@ -62,7 +62,7 @@ CMAKE_BINARY_DIR = C:\Users\jules\Documents\discovery\build
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/test_comp.dir/all
+all: CMakeFiles/discovery.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -70,34 +70,34 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/test_comp.dir/clean
+clean: CMakeFiles/discovery.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/test_comp.dir
+# Target rules for target CMakeFiles/discovery.dir
 
 # All Build rule for target.
-CMakeFiles/test_comp.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_comp.dir\build.make CMakeFiles/test_comp.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_comp.dir\build.make CMakeFiles/test_comp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=1,2 "Built target test_comp"
-.PHONY : CMakeFiles/test_comp.dir/all
+CMakeFiles/discovery.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\discovery.dir\build.make CMakeFiles/discovery.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\discovery.dir\build.make CMakeFiles/discovery.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=1,2 "Built target discovery"
+.PHONY : CMakeFiles/discovery.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/test_comp.dir/rule: cmake_check_build_system
+CMakeFiles/discovery.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jules\Documents\discovery\build\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/test_comp.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/discovery.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\jules\Documents\discovery\build\CMakeFiles 0
-.PHONY : CMakeFiles/test_comp.dir/rule
+.PHONY : CMakeFiles/discovery.dir/rule
 
 # Convenience name for target.
-test_comp: CMakeFiles/test_comp.dir/rule
-.PHONY : test_comp
+discovery: CMakeFiles/discovery.dir/rule
+.PHONY : discovery
 
 # clean rule for target.
-CMakeFiles/test_comp.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_comp.dir\build.make CMakeFiles/test_comp.dir/clean
-.PHONY : CMakeFiles/test_comp.dir/clean
+CMakeFiles/discovery.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\discovery.dir\build.make CMakeFiles/discovery.dir/clean
+.PHONY : CMakeFiles/discovery.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/discovery.dir/src/main.c.obj"
-  "CMakeFiles/discovery.dir/src/main.c.obj.d"
-  "discovery.exe"
-  "discovery.exe.manifest"
-  "discovery.pdb"
-  "libdiscovery.dll.a"
+  "C:/Users/jules/Documents/discovery/discovery.exe"
+  "C:/Users/jules/Documents/discovery/discovery.exe.manifest"
+  "C:/Users/jules/Documents/discovery/discovery.pdb"
+  "C:/Users/jules/Documents/discovery/libdiscovery.dll.a"
+  "CMakeFiles/discovery.dir/main.c.obj"
+  "CMakeFiles/discovery.dir/main.c.obj.d"
 )
 
 # Per-language clean rules from dependency scanning.

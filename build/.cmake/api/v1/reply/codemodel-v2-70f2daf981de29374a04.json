@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "test_comp",
+					"name" : "discovery",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "test_comp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test_comp-Debug-ca6164ec3b1122df42ad.json",
-					"name" : "test_comp",
+					"id" : "discovery::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-discovery-Debug-c9bee47d37cfe393e789.json",
+					"name" : "discovery",
 					"projectIndex" : 0
 				}
 			]

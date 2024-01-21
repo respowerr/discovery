@@ -1,4 +1,4 @@
-C:/Users/jules/Documents/discovery/build/CMakeFiles/test_comp.dir
+C:/Users/jules/Documents/discovery/build/CMakeFiles/discovery.dir
 C:/Users/jules/Documents/discovery/build/CMakeFiles/package.dir
 C:/Users/jules/Documents/discovery/build/CMakeFiles/package_source.dir
 C:/Users/jules/Documents/discovery/build/CMakeFiles/edit_cache.dir

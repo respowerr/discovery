@@ -156,7 +156,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=test_comp
+CMAKE_PROJECT_NAME:STATIC=discovery
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/msys64/mingw64/bin/ranlib.exe
@@ -246,6 +246,15 @@ PKG_CONFIG_ARGN:STRING=
 
 //pkg-config executable
 PKG_CONFIG_EXECUTABLE:FILEPATH=C:/msys64/mingw64/bin/pkg-config.exe
+
+//Value Computed by CMake
+discovery_BINARY_DIR:STATIC=C:/Users/jules/Documents/discovery/build
+
+//Value Computed by CMake
+discovery_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+discovery_SOURCE_DIR:STATIC=C:/Users/jules/Documents/discovery
 
 //Path to a library.
 pkgcfg_lib_GDK_PIXBUF_gdk_pixbuf-2.0:FILEPATH=C:/msys64/mingw64/lib/libgdk_pixbuf-2.0.dll.a

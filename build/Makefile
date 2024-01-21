@@ -136,24 +136,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named test_comp
+# Target rules for targets named discovery
 
 # Build rule for target.
-test_comp: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 test_comp
-.PHONY : test_comp
+discovery: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 discovery
+.PHONY : discovery
 
 # fast build rule for target.
-test_comp/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_comp.dir\build.make CMakeFiles/test_comp.dir/build
-.PHONY : test_comp/fast
+discovery/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\discovery.dir\build.make CMakeFiles/discovery.dir/build
+.PHONY : discovery/fast
 
 main.obj: main.c.obj
 .PHONY : main.obj
 
 # target to build an object file
 main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_comp.dir\build.make CMakeFiles/test_comp.dir/main.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\discovery.dir\build.make CMakeFiles/discovery.dir/main.c.obj
 .PHONY : main.c.obj
 
 main.i: main.c.i
@@ -161,7 +161,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_comp.dir\build.make CMakeFiles/test_comp.dir/main.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\discovery.dir\build.make CMakeFiles/discovery.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -169,7 +169,7 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test_comp.dir\build.make CMakeFiles/test_comp.dir/main.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\discovery.dir\build.make CMakeFiles/discovery.dir/main.c.s
 .PHONY : main.c.s
 
 # Help Target
@@ -182,7 +182,7 @@ help:
 	@echo ... package
 	@echo ... package_source
 	@echo ... rebuild_cache
-	@echo ... test_comp
+	@echo ... discovery
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

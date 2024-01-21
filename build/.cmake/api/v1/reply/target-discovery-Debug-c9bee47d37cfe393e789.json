@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "test_comp.exe"
+			"path" : "C:/Users/jules/Documents/discovery/discovery.exe"
 		},
 		{
-			"path" : "test_comp.pdb"
+			"path" : "C:/Users/jules/Documents/discovery/discovery.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -131,7 +131,7 @@
 			]
 		}
 	],
-	"id" : "test_comp::@6890427a1f51a3e7e1df",
+	"id" : "discovery::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -716,8 +716,8 @@
 		],
 		"language" : "C"
 	},
-	"name" : "test_comp",
-	"nameOnDisk" : "test_comp.exe",
+	"name" : "discovery",
+	"nameOnDisk" : "discovery.exe",
 	"paths" : 
 	{
 		"build" : ".",
