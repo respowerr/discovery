@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/jules/Documents/discovery/build",
-  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/discovery.dir/includes_C.rsp -g -o CMakeFiles\\discovery.dir\\main.c.obj -c C:\\Users\\jules\\Documents\\discovery\\main.c",
-  "file": "C:/Users/jules/Documents/discovery/main.c",
-  "output": "CMakeFiles/discovery.dir/main.c.obj"
-}
-]
