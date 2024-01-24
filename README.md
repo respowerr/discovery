@@ -17,4 +17,4 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 
 ## License
-Ce projet est un projet d'étude créer par Respowerr et SnikiEP
+Discovery est un projet d'étude créer par Respowerr et SnikiEP dans le cadre de notre seconde année en école d'informatique.
