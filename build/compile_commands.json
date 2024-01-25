@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/enzop/Desktop/discovery/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/discovery.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\discovery.dir\\main.c.obj -c C:\\Users\\enzop\\Desktop\\discovery\\main.c",
+  "file": "C:/Users/enzop/Desktop/discovery/main.c",
+  "output": "CMakeFiles/discovery.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/enzop/Desktop/discovery/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/discovery.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\discovery.dir\\panel.c.obj -c C:\\Users\\enzop\\Desktop\\discovery\\panel.c",
+  "file": "C:/Users/enzop/Desktop/discovery/panel.c",
+  "output": "CMakeFiles/discovery.dir/panel.c.obj"
+},
+{
+  "directory": "C:/Users/enzop/Desktop/discovery/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/discovery.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\discovery.dir\\verif_whois.c.obj -c C:\\Users\\enzop\\Desktop\\discovery\\verif_whois.c",
+  "file": "C:/Users/enzop/Desktop/discovery/verif_whois.c",
+  "output": "CMakeFiles/discovery.dir/verif_whois.c.obj"
+},
+{
+  "directory": "C:/Users/enzop/Desktop/discovery/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/discovery.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\discovery.dir\\verif_robot.c.obj -c C:\\Users\\enzop\\Desktop\\discovery\\verif_robot.c",
+  "file": "C:/Users/enzop/Desktop/discovery/verif_robot.c",
+  "output": "CMakeFiles/discovery.dir/verif_robot.c.obj"
+},
+{
+  "directory": "C:/Users/enzop/Desktop/discovery/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/discovery.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\discovery.dir\\verif_html.c.obj -c C:\\Users\\enzop\\Desktop\\discovery\\verif_html.c",
+  "file": "C:/Users/enzop/Desktop/discovery/verif_html.c",
+  "output": "CMakeFiles/discovery.dir/verif_html.c.obj"
+},
+{
+  "directory": "C:/Users/enzop/Desktop/discovery/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL @CMakeFiles/discovery.dir/includes_C.rsp -O3 -DNDEBUG -o CMakeFiles\\discovery.dir\\verif_cookie.c.obj -c C:\\Users\\enzop\\Desktop\\discovery\\verif_cookie.c",
+  "file": "C:/Users/enzop/Desktop/discovery/verif_cookie.c",
+  "output": "CMakeFiles/discovery.dir/verif_cookie.c.obj"
+}
+]

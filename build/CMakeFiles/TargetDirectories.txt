@@ -1,0 +1,5 @@
+C:/Users/enzop/Desktop/discovery/build/CMakeFiles/discovery.dir
+C:/Users/enzop/Desktop/discovery/build/CMakeFiles/package.dir
+C:/Users/enzop/Desktop/discovery/build/CMakeFiles/package_source.dir
+C:/Users/enzop/Desktop/discovery/build/CMakeFiles/edit_cache.dir
+C:/Users/enzop/Desktop/discovery/build/CMakeFiles/rebuild_cache.dir
