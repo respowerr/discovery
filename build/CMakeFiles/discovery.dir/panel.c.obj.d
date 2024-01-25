@@ -1,5 +1,5 @@
 CMakeFiles/discovery.dir/panel.c.obj: \
- C:\Users\jules\Documents\discovery\panel.c \
+ C:\Users\enzop\Desktop\discovery\panel.c \
  C:/msys64/mingw64/include/gtk-3.0/gtk/gtk.h \
  C:/msys64/mingw64/include/gtk-3.0/gdk/gdk.h \
  C:/msys64/mingw64/include/gtk-3.0/gdk/gdkconfig.h \
@@ -928,9 +928,9 @@ CMakeFiles/discovery.dir/panel.c.obj: \
  C:/msys64/mingw64/include/curl/mprintf.h \
  C:/msys64/mingw64/include/curl/typecheck-gcc.h \
  C:/msys64/mingw64/include/direct.h C:/msys64/mingw64/include/io.h \
- C:\Users\jules\Documents\discovery\include/panel.h \
+ C:\Users\enzop\Desktop\discovery\include/panel.h \
  C:/msys64/mingw64/include/sqlite3.h \
- C:\Users\jules\Documents\discovery\include/verif_whois.h \
- C:\Users\jules\Documents\discovery\include/verif_robot.h \
- C:\Users\jules\Documents\discovery\include/verif_html.h \
- C:\Users\jules\Documents\discovery\include/verif_cookie.h
+ C:\Users\enzop\Desktop\discovery\include/verif_whois.h \
+ C:\Users\enzop\Desktop\discovery\include/verif_robot.h \
+ C:\Users\enzop\Desktop\discovery\include/verif_html.h \
+ C:\Users\enzop\Desktop\discovery\include/verif_cookie.h

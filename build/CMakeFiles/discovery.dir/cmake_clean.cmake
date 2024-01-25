@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "C:/Users/jules/Documents/discovery/discovery.exe"
-  "C:/Users/jules/Documents/discovery/discovery.exe.manifest"
-  "C:/Users/jules/Documents/discovery/discovery.pdb"
-  "C:/Users/jules/Documents/discovery/libdiscovery.dll.a"
+  "C:/Users/enzop/Desktop/discovery/discovery.exe"
+  "C:/Users/enzop/Desktop/discovery/discovery.exe.manifest"
+  "C:/Users/enzop/Desktop/discovery/discovery.pdb"
+  "C:/Users/enzop/Desktop/discovery/libdiscovery.dll.a"
   "CMakeFiles/discovery.dir/main.c.obj"
   "CMakeFiles/discovery.dir/main.c.obj.d"
   "CMakeFiles/discovery.dir/panel.c.obj"

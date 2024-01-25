@@ -6,5 +6,5 @@ C_DEFINES = -DLIBDEFLATE_DLL
 
 C_INCLUDES = @CMakeFiles/discovery.dir/includes_C.rsp
 
-C_FLAGS = -g
+C_FLAGS = -O3 -DNDEBUG
 

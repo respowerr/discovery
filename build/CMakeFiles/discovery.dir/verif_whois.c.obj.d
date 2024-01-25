@@ -1,5 +1,5 @@
 CMakeFiles/discovery.dir/verif_whois.c.obj: \
- C:\Users\jules\Documents\discovery\verif_whois.c \
+ C:\Users\enzop\Desktop\discovery\verif_whois.c \
  C:/msys64/mingw64/include/stdio.h \
  C:/msys64/mingw64/include/corecrt_stdio_config.h \
  C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
@@ -253,4 +253,4 @@ CMakeFiles/discovery.dir/verif_whois.c.obj: \
  C:/msys64/mingw64/include/curl/websockets.h \
  C:/msys64/mingw64/include/curl/mprintf.h \
  C:/msys64/mingw64/include/curl/typecheck-gcc.h \
- C:\Users\jules\Documents\discovery\include/verif_whois.h
+ C:\Users\enzop\Desktop\discovery\include/verif_whois.h

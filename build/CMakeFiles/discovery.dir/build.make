@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\jules\Documents\discovery
+CMAKE_SOURCE_DIR = C:\Users\enzop\Desktop\discovery
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\jules\Documents\discovery\build
+CMAKE_BINARY_DIR = C:\Users\enzop\Desktop\discovery\build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/discovery.dir/depend.make
@@ -70,93 +70,93 @@ include CMakeFiles/discovery.dir/flags.make
 
 CMakeFiles/discovery.dir/main.c.obj: CMakeFiles/discovery.dir/flags.make
 CMakeFiles/discovery.dir/main.c.obj: CMakeFiles/discovery.dir/includes_C.rsp
-CMakeFiles/discovery.dir/main.c.obj: C:/Users/jules/Documents/discovery/main.c
+CMakeFiles/discovery.dir/main.c.obj: C:/Users/enzop/Desktop/discovery/main.c
 CMakeFiles/discovery.dir/main.c.obj: CMakeFiles/discovery.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/discovery.dir/main.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/main.c.obj -MF CMakeFiles\discovery.dir\main.c.obj.d -o CMakeFiles\discovery.dir\main.c.obj -c C:\Users\jules\Documents\discovery\main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\enzop\Desktop\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/discovery.dir/main.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/main.c.obj -MF CMakeFiles\discovery.dir\main.c.obj.d -o CMakeFiles\discovery.dir\main.c.obj -c C:\Users\enzop\Desktop\discovery\main.c
 
 CMakeFiles/discovery.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/discovery.dir/main.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules\Documents\discovery\main.c > CMakeFiles\discovery.dir\main.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\enzop\Desktop\discovery\main.c > CMakeFiles\discovery.dir\main.c.i
 
 CMakeFiles/discovery.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/discovery.dir/main.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules\Documents\discovery\main.c -o CMakeFiles\discovery.dir\main.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\enzop\Desktop\discovery\main.c -o CMakeFiles\discovery.dir\main.c.s
 
 CMakeFiles/discovery.dir/panel.c.obj: CMakeFiles/discovery.dir/flags.make
 CMakeFiles/discovery.dir/panel.c.obj: CMakeFiles/discovery.dir/includes_C.rsp
-CMakeFiles/discovery.dir/panel.c.obj: C:/Users/jules/Documents/discovery/panel.c
+CMakeFiles/discovery.dir/panel.c.obj: C:/Users/enzop/Desktop/discovery/panel.c
 CMakeFiles/discovery.dir/panel.c.obj: CMakeFiles/discovery.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/discovery.dir/panel.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/panel.c.obj -MF CMakeFiles\discovery.dir\panel.c.obj.d -o CMakeFiles\discovery.dir\panel.c.obj -c C:\Users\jules\Documents\discovery\panel.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\enzop\Desktop\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/discovery.dir/panel.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/panel.c.obj -MF CMakeFiles\discovery.dir\panel.c.obj.d -o CMakeFiles\discovery.dir\panel.c.obj -c C:\Users\enzop\Desktop\discovery\panel.c
 
 CMakeFiles/discovery.dir/panel.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/discovery.dir/panel.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules\Documents\discovery\panel.c > CMakeFiles\discovery.dir\panel.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\enzop\Desktop\discovery\panel.c > CMakeFiles\discovery.dir\panel.c.i
 
 CMakeFiles/discovery.dir/panel.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/discovery.dir/panel.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules\Documents\discovery\panel.c -o CMakeFiles\discovery.dir\panel.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\enzop\Desktop\discovery\panel.c -o CMakeFiles\discovery.dir\panel.c.s
 
 CMakeFiles/discovery.dir/verif_whois.c.obj: CMakeFiles/discovery.dir/flags.make
 CMakeFiles/discovery.dir/verif_whois.c.obj: CMakeFiles/discovery.dir/includes_C.rsp
-CMakeFiles/discovery.dir/verif_whois.c.obj: C:/Users/jules/Documents/discovery/verif_whois.c
+CMakeFiles/discovery.dir/verif_whois.c.obj: C:/Users/enzop/Desktop/discovery/verif_whois.c
 CMakeFiles/discovery.dir/verif_whois.c.obj: CMakeFiles/discovery.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/discovery.dir/verif_whois.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/verif_whois.c.obj -MF CMakeFiles\discovery.dir\verif_whois.c.obj.d -o CMakeFiles\discovery.dir\verif_whois.c.obj -c C:\Users\jules\Documents\discovery\verif_whois.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\enzop\Desktop\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/discovery.dir/verif_whois.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/verif_whois.c.obj -MF CMakeFiles\discovery.dir\verif_whois.c.obj.d -o CMakeFiles\discovery.dir\verif_whois.c.obj -c C:\Users\enzop\Desktop\discovery\verif_whois.c
 
 CMakeFiles/discovery.dir/verif_whois.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/discovery.dir/verif_whois.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules\Documents\discovery\verif_whois.c > CMakeFiles\discovery.dir\verif_whois.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\enzop\Desktop\discovery\verif_whois.c > CMakeFiles\discovery.dir\verif_whois.c.i
 
 CMakeFiles/discovery.dir/verif_whois.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/discovery.dir/verif_whois.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules\Documents\discovery\verif_whois.c -o CMakeFiles\discovery.dir\verif_whois.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\enzop\Desktop\discovery\verif_whois.c -o CMakeFiles\discovery.dir\verif_whois.c.s
 
 CMakeFiles/discovery.dir/verif_robot.c.obj: CMakeFiles/discovery.dir/flags.make
 CMakeFiles/discovery.dir/verif_robot.c.obj: CMakeFiles/discovery.dir/includes_C.rsp
-CMakeFiles/discovery.dir/verif_robot.c.obj: C:/Users/jules/Documents/discovery/verif_robot.c
+CMakeFiles/discovery.dir/verif_robot.c.obj: C:/Users/enzop/Desktop/discovery/verif_robot.c
 CMakeFiles/discovery.dir/verif_robot.c.obj: CMakeFiles/discovery.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/discovery.dir/verif_robot.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/verif_robot.c.obj -MF CMakeFiles\discovery.dir\verif_robot.c.obj.d -o CMakeFiles\discovery.dir\verif_robot.c.obj -c C:\Users\jules\Documents\discovery\verif_robot.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\enzop\Desktop\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/discovery.dir/verif_robot.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/verif_robot.c.obj -MF CMakeFiles\discovery.dir\verif_robot.c.obj.d -o CMakeFiles\discovery.dir\verif_robot.c.obj -c C:\Users\enzop\Desktop\discovery\verif_robot.c
 
 CMakeFiles/discovery.dir/verif_robot.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/discovery.dir/verif_robot.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules\Documents\discovery\verif_robot.c > CMakeFiles\discovery.dir\verif_robot.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\enzop\Desktop\discovery\verif_robot.c > CMakeFiles\discovery.dir\verif_robot.c.i
 
 CMakeFiles/discovery.dir/verif_robot.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/discovery.dir/verif_robot.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules\Documents\discovery\verif_robot.c -o CMakeFiles\discovery.dir\verif_robot.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\enzop\Desktop\discovery\verif_robot.c -o CMakeFiles\discovery.dir\verif_robot.c.s
 
 CMakeFiles/discovery.dir/verif_html.c.obj: CMakeFiles/discovery.dir/flags.make
 CMakeFiles/discovery.dir/verif_html.c.obj: CMakeFiles/discovery.dir/includes_C.rsp
-CMakeFiles/discovery.dir/verif_html.c.obj: C:/Users/jules/Documents/discovery/verif_html.c
+CMakeFiles/discovery.dir/verif_html.c.obj: C:/Users/enzop/Desktop/discovery/verif_html.c
 CMakeFiles/discovery.dir/verif_html.c.obj: CMakeFiles/discovery.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/discovery.dir/verif_html.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/verif_html.c.obj -MF CMakeFiles\discovery.dir\verif_html.c.obj.d -o CMakeFiles\discovery.dir\verif_html.c.obj -c C:\Users\jules\Documents\discovery\verif_html.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\enzop\Desktop\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/discovery.dir/verif_html.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/verif_html.c.obj -MF CMakeFiles\discovery.dir\verif_html.c.obj.d -o CMakeFiles\discovery.dir\verif_html.c.obj -c C:\Users\enzop\Desktop\discovery\verif_html.c
 
 CMakeFiles/discovery.dir/verif_html.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/discovery.dir/verif_html.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules\Documents\discovery\verif_html.c > CMakeFiles\discovery.dir\verif_html.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\enzop\Desktop\discovery\verif_html.c > CMakeFiles\discovery.dir\verif_html.c.i
 
 CMakeFiles/discovery.dir/verif_html.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/discovery.dir/verif_html.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules\Documents\discovery\verif_html.c -o CMakeFiles\discovery.dir\verif_html.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\enzop\Desktop\discovery\verif_html.c -o CMakeFiles\discovery.dir\verif_html.c.s
 
 CMakeFiles/discovery.dir/verif_cookie.c.obj: CMakeFiles/discovery.dir/flags.make
 CMakeFiles/discovery.dir/verif_cookie.c.obj: CMakeFiles/discovery.dir/includes_C.rsp
-CMakeFiles/discovery.dir/verif_cookie.c.obj: C:/Users/jules/Documents/discovery/verif_cookie.c
+CMakeFiles/discovery.dir/verif_cookie.c.obj: C:/Users/enzop/Desktop/discovery/verif_cookie.c
 CMakeFiles/discovery.dir/verif_cookie.c.obj: CMakeFiles/discovery.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/discovery.dir/verif_cookie.c.obj"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/verif_cookie.c.obj -MF CMakeFiles\discovery.dir\verif_cookie.c.obj.d -o CMakeFiles\discovery.dir\verif_cookie.c.obj -c C:\Users\jules\Documents\discovery\verif_cookie.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\enzop\Desktop\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/discovery.dir/verif_cookie.c.obj"
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/discovery.dir/verif_cookie.c.obj -MF CMakeFiles\discovery.dir\verif_cookie.c.obj.d -o CMakeFiles\discovery.dir\verif_cookie.c.obj -c C:\Users\enzop\Desktop\discovery\verif_cookie.c
 
 CMakeFiles/discovery.dir/verif_cookie.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/discovery.dir/verif_cookie.c.i"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\jules\Documents\discovery\verif_cookie.c > CMakeFiles\discovery.dir\verif_cookie.c.i
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\enzop\Desktop\discovery\verif_cookie.c > CMakeFiles\discovery.dir\verif_cookie.c.i
 
 CMakeFiles/discovery.dir/verif_cookie.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/discovery.dir/verif_cookie.c.s"
-	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\jules\Documents\discovery\verif_cookie.c -o CMakeFiles\discovery.dir\verif_cookie.c.s
+	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\enzop\Desktop\discovery\verif_cookie.c -o CMakeFiles\discovery.dir\verif_cookie.c.s
 
 # Object files for target discovery
 discovery_OBJECTS = \
@@ -170,23 +170,23 @@ discovery_OBJECTS = \
 # External object files for target discovery
 discovery_EXTERNAL_OBJECTS =
 
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/main.c.obj
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/panel.c.obj
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/verif_whois.c.obj
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/verif_robot.c.obj
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/verif_html.c.obj
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/verif_cookie.c.obj
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/build.make
-C:/Users/jules/Documents/discovery/discovery.exe: C:/msys64/mingw64/lib/libcurl.dll.a
-C:/Users/jules/Documents/discovery/discovery.exe: C:/msys64/mingw64/lib/libcurl.dll.a
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/linkLibs.rsp
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/objects1.rsp
-C:/Users/jules/Documents/discovery/discovery.exe: CMakeFiles/discovery.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\jules\Documents\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable C:\Users\jules\Documents\discovery\discovery.exe"
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/main.c.obj
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/panel.c.obj
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/verif_whois.c.obj
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/verif_robot.c.obj
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/verif_html.c.obj
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/verif_cookie.c.obj
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/build.make
+C:/Users/enzop/Desktop/discovery/discovery.exe: C:/msys64/mingw64/lib/libcurl.dll.a
+C:/Users/enzop/Desktop/discovery/discovery.exe: C:/msys64/mingw64/lib/libcurl.dll.a
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/linkLibs.rsp
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/objects1.rsp
+C:/Users/enzop/Desktop/discovery/discovery.exe: CMakeFiles/discovery.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\enzop\Desktop\discovery\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable C:\Users\enzop\Desktop\discovery\discovery.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\discovery.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/discovery.dir/build: C:/Users/jules/Documents/discovery/discovery.exe
+CMakeFiles/discovery.dir/build: C:/Users/enzop/Desktop/discovery/discovery.exe
 .PHONY : CMakeFiles/discovery.dir/build
 
 CMakeFiles/discovery.dir/clean:
@@ -194,6 +194,6 @@ CMakeFiles/discovery.dir/clean:
 .PHONY : CMakeFiles/discovery.dir/clean
 
 CMakeFiles/discovery.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\jules\Documents\discovery C:\Users\jules\Documents\discovery C:\Users\jules\Documents\discovery\build C:\Users\jules\Documents\discovery\build C:\Users\jules\Documents\discovery\build\CMakeFiles\discovery.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\enzop\Desktop\discovery C:\Users\enzop\Desktop\discovery C:\Users\enzop\Desktop\discovery\build C:\Users\enzop\Desktop\discovery\build C:\Users\enzop\Desktop\discovery\build\CMakeFiles\discovery.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/discovery.dir/depend
 

@@ -1,5 +1,5 @@
 CMakeFiles/discovery.dir/main.c.obj: \
- C:\Users\jules\Documents\discovery\main.c \
+ C:\Users\enzop\Desktop\discovery\main.c \
  C:/msys64/mingw64/include/gtk-3.0/gtk/gtk.h \
  C:/msys64/mingw64/include/gtk-3.0/gdk/gdk.h \
  C:/msys64/mingw64/include/gtk-3.0/gdk/gdkconfig.h \
@@ -909,4 +909,4 @@ CMakeFiles/discovery.dir/main.c.obj: \
  C:/msys64/mingw64/include/winsvc.h C:/msys64/mingw64/include/mcx.h \
  C:/msys64/mingw64/include/imm.h \
  C:/msys64/mingw64/include/glib-2.0/glib/gprintf.h \
- C:\Users\jules\Documents\discovery\include/panel.h
+ C:\Users\enzop\Desktop\discovery\include/panel.h
