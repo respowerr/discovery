@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/jules/Documents/discovery/build",
-  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe  @CMakeFiles/updater.dir/includes_C.rsp -g -o CMakeFiles\\updater.dir\\main.c.obj -c C:\\Users\\jules\\Documents\\discovery\\main.c",
-  "file": "C:/Users/jules/Documents/discovery/main.c",
-  "output": "CMakeFiles/updater.dir/main.c.obj"
-}
-]
