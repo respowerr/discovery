@@ -10,6 +10,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - [CMake](https://cmake.org/) (version 3.5.X)
 - [GCC](https://gcc.gnu.org/) (GNU Compiler Collection) inclus avec [MSYS2](https://www.msys2.org/) pour Windows.
 - [GTK3](https://www.gtk.org/) (GIMP Toolkit version 3) pour le développement d'interfaces graphiques.
+- GTK 3 runtime (https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer) + dll compatible (https://www.mediafire.com/file/hyp9gnvhz9psz96/libgdk_pixbuf-2.0-0.dll/file)
 
 
 ## License
