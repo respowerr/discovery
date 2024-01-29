@@ -1,1 +1,0 @@
-Erreur curl: Server returned nothing (no headers, no data)

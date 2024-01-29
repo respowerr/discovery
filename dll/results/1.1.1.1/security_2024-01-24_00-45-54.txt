@@ -1,9 +1,0 @@
-Résultat de sécurité pour 1.1.1.1
-Content-Security-Policy: NO
-X-Content-Type-Options: NO
-X-Frame-Options: NO
-Strict-Transport-Security: NO
-X-XSS-Protection: NO
-Referrer-Policy: NO
-Feature-Policy: NO
-Permissions-Policy: NO

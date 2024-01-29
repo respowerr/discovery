@@ -1,9 +1,0 @@
-Résultat de sécurité pour google.fr
-Content-Security-Policy: YES
-X-Content-Type-Options: NO
-X-Frame-Options: YES
-Strict-Transport-Security: NO
-X-XSS-Protection: YES
-Referrer-Policy: NO
-Feature-Policy: NO
-Permissions-Policy: NO
